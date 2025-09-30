@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: RAG-Medcal-Chatbot
+Version: 0.1
+Author: Saket Garodia
+Requires-Dist: langchain
+Requires-Dist: langchain-community
+Requires-Dist: langchain_huggingface
+Requires-Dist: faiss-cpu
+Requires-Dist: pypdf
+Requires-Dist: huggingface-hub
+Requires-Dist: flask
+Requires-Dist: python-dotenv
+Requires-Dist: sentence-transformers
+Requires-Dist: langchain_groq
+Dynamic: author
+Dynamic: requires-dist
